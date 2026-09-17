@@ -81,7 +81,7 @@ return "Username successfully captured.\nPassword successfully captured.\nCell p
 // 5. Login User: Verifies login details match stored details
 public B
 * 
-* oolean loginUser(String username, String password) {
+* Boolean loginUser(String username, String password) {
 if (this.storedUsername == null || this.storedPassword == null) {
 return false; // No user registered yet
 }
