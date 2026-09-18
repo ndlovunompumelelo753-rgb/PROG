@@ -1,7 +1,8 @@
 package com.mycompany.prog;
 
-public class LoginTest.java{
+public class Login {
 
+// These are the variables that were missing!
 private String storedUsername;
 private String storedPassword;
 private String storedCellNumber;
