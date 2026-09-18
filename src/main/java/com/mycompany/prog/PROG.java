@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PROG {
 public static void main(String[] args) {
 Scanner scanner = new Scanner(System.in);
-Login loginSystem = new Login();
+Login loginSystem = new login();
 
 System.out.println("=== Welcome to the Chat App Registration ===");
 
